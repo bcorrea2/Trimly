@@ -40,3 +40,30 @@ The project includes a comprehensive test suite to ensure reliability and correc
 -   **Copy to Clipboard**: Allow users to easily copy shortened URLs.
 -   **Empty State UI**: Display a friendly message when the history list is empty.
 -   **UI Polish**: Further refine the visual design for an even better user experience.
+
+## 📱 Screenshots
+
+_Coming soon._
+
+## ✅ Requirements
+
+-   Xcode 26 or later
+-   iOS 16.6+ deployment target
+-   Swift 5.0
+
+## 🚀 Getting Started
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/<your-username>/Trimly.git
+    ```
+2.  Open `Trimly.xcodeproj` in Xcode.
+3.  Select the `Trimly` scheme and run on a simulator or device (`Cmd+R`).
+4.  To run the test suite, use `Cmd+U` or:
+    ```bash
+    xcodebuild test -project Trimly.xcodeproj -scheme Trimly -destination 'platform=iOS Simulator,name=iPhone 16'
+    ```
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
