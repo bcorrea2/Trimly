@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "B1106785-6276-4760-9CB7-7A1284A60864",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Trimly.xcodeproj",
+      "identifier" : "8B87757D2E9EF4350085645C",
+      "name" : "Trimly"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:Trimly.xcodeproj",
+        "identifier" : "8B87758A2E9EF4370085645C",
+        "name" : "TrimlyTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Trimly.xcodeproj",
+        "identifier" : "8B8775942E9EF4370085645C",
+        "name" : "TrimlyUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
