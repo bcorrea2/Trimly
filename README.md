@@ -55,7 +55,7 @@ _Coming soon._
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/Trimly.git
+    git clone https://github.com/bcorrea2/Trimly.git
     ```
 2.  Open `Trimly.xcodeproj` in Xcode.
 3.  Select the `Trimly` scheme and run on a simulator or device (`Cmd+R`).
