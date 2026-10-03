@@ -43,7 +43,8 @@ The project includes a comprehensive test suite to ensure reliability and correc
 
 ## 📱 Screenshots
 
-_Coming soon._
+<img width="585" height="1266" alt="Captura de Tela 2026-10-02 à(s) 20 39 15" src="https://github.com/user-attachments/assets/2c609130-31d2-4fc5-9b8d-d94aa5b166cc" />
+
 
 ## ✅ Requirements
 
